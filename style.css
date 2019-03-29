@@ -30,10 +30,9 @@ h1
   text-align: center;
   border: 2px lime dashed;
   border-radius: 5px;
-  margin-left: 675px;
-  margin-right: 675px;
+  margin-left: auto;
+  margin-right: auto;
   background-image: url("https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif")
-
   }
 
 .center
